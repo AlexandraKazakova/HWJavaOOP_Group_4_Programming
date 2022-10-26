@@ -18,8 +18,8 @@ public class Main {
 		people.add(h1 = new Human("Anna", "Ivanova", 30, Female));
 		people.add(h2 = new Human("Sergei", "Ivanov", 35, Male));
 		people.add(h3 = new Human("Ivan", "Ivanov", 4, Male));
-		people.add(h4 =new Human("Vera", "Sidorova", 22, Female));
-		people.add(h5 =new Human("Elena", "Sidorova", 54, Female));
+		people.add(h4 = new Human("Vera", "Sidorova", 22, Female));
+		people.add(h5 = new Human("Elena", "Sidorova", 54, Female));
 		people.add(h6 = new Human("Oleg", "Smirnov", 46, Male));
 		people.add(h7 = new Human("Masha", "Smirnova", 48, Female));
 		people.add(h8 = new Human("Inna", "Sidorova", 70, Female));

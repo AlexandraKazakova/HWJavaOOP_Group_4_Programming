@@ -42,6 +42,8 @@ public class Main {
         System.out.println(notebookController.getSortedNotebookById(notebookList));
         System.out.println(pcController.getSortedPCById(pcList));
         System.out.println(tabletController.getSortedTabletById(tabletList));
+        System.out.println(notebookController.getSortedBySsd(notebookList));
+
 
         notebookController.notebookPrint(notebookList);
 
